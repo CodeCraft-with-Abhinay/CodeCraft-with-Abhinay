@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dldmQ0aDBhMTFscXBjMXoyM3A1cjU5ZjYwZzRpM3NpdXJndW15MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFADuF7J5QY3x2I7V4/giphy.gif" alt="CodeCraft GIF" width="200" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoajZ0eGk3ZGQxM2U4ZndueWJjNHYwbGZpM2NqYWxzeGlzYmltdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="CodeCraft GIF" width="200" style="border-radius: 50%;">
   <br>
   <h1>⚡ CodeCraft-with-Abhinay ⚡</h1>
   <h3>Learn MERN, React Native, DevOps, CI/CD, Python & AI — code smarter with real projects and practical learning.</h3>
